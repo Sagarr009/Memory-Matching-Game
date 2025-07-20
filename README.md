@@ -16,16 +16,4 @@ A fun and interactive **Memory Matching Game** built using HTML, CSS, and JavaSc
 - CSS3
 - JavaScript (Vanilla)
 
-## 📂 Project Structure
-memory-matching-game/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
-1. Clone the repository:
-``bash
-git clone https://github.com/Sagarr009/memory-matching-game.git
-cd memory-matching-game
-Open index.html in your browser.
 
